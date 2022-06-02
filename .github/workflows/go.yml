@@ -18,4 +18,4 @@ jobs:
       with:
         go-version: 1.18
     - name: GO EXAMPLE
-      uses: tomvingaas/kustomize-output-in-pullreques@v1
+      uses: tomvingaas/kustomize-output-in-pullrequest@v1
